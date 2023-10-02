@@ -1,0 +1,93 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+body {
+    background-image: url('green-girls.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: rgb(57, 95, 38);
+    background: linear-gradient(34deg, rgba(57, 95, 38, 1) 51%, rgba(28, 94, 87, 0.964) 68%);
+}
+
+.form {
+    width: 400px;
+    border-radius: 14px;
+    padding: 22px 30px;
+    margin: 180px auto;
+    background: rgb(17, 24, 16);
+    background: linear-gradient(301deg, rgba(17, 24, 16, 1) 0%, rgba(3, 33, 2, 0.9865196078431373) 4%, rgba(17, 27, 16, 1) 96%);
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    opacity: calc(70%);
+    color: white;
+
+}
+
+.user {
+    width: 100%;
+    font-size: 15px;
+    padding: 8px 8px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+
+.btn {
+    width: 100%;
+    padding: 12px 10px;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-weight: bolder;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+
+}
+
+.valid {
+    text-decoration: none;
+    color: aqua;
+}
+
+.valid1 {
+    text-decoration: none;
+    color: white
+}
+
+.username {
+    margin-top: 30px;
+}
+
+b {
+    padding-right: 280px;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.bi {
+    color: blue;
+    font-size: 12px;
+}
+
+.div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.div1 {
+    display: flex;
+    padding-left: 100px;
+}
+
+.valid2 {
+    text-decoration: none;
+    color: aqua;
+    margin-top: 17px;
+}
